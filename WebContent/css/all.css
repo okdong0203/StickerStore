@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+/*  
+ <link rel="stylesheet" href="../css/index.css">
+margin:  0px auto; */
+
+   .middle-index{
+    width:960px;
+   
+    }
+
+
+  
+  .all-product-box{
+    width:900px;
+    margin-left:30px;
+        
+  }
+
+  .all-product-title{
+    font-size:21px;
+    font-style: 20px;
+    font-weight:900;
+    width:80px;
+    margin-left: 410px;
+    margin-top: 15px;
+  }
+
+  .all-category{
+    font-size: 4px;
+    float:right;
+    
+  }
+
+  .all-product{
+    margin-top:45px;
+    
+    
+  }
+
+  .all-product>a>img{
+    width:164px;
+    height:164px;
+    margin-right:20px;
+    float: left;
+    margin-bottom:3px;
+  }
+
+  .img-r{
+    width:164px;
+    height:164px;
+    float:right;
+    margin-bottom:3px;
+  }
+
+  .text-all{
+    margin-top:4px;
+    float:left;
+    margin-right:125px;
+  }
+
+  .text-all-r{
+    margin-top:4px;
+    float:left;
+    margin-left:-20px;
+  }
+  
+  .name-all{
+    font-size:5px;
+    font-weight:900;
+  }
+
+  .name-under-all{
+    margin-top:2px;
+  }
+
+  .price-all{
+    font-size:5px;
+    font-weight:900;
+   margin-bottom:20px;
+  }
+
+
+
+
+

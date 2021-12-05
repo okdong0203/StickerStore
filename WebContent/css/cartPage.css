@@ -1,0 +1,202 @@
+@charset "UTF-8";
+	.box-all{
+    width: 960px;
+    font-size: 20px;
+    margin: 0px auto;
+    margin-top:0px;
+    border:1px solid rgb(185, 175, 163);
+   }
+
+    .midbox{
+        width:940px;
+        margin-left: 30px;
+        margin-top:80px;
+        
+      }
+  
+      .cart-text{
+        font-size: 21px;
+        margin-left: 235px;
+        margin-bottom:25px;
+        font-weight:700;
+        margin-left:400px;
+      }
+
+      .image{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:100px;
+      }
+
+      .information{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84); 
+        font-weight: 800;
+        margin-left:150px;
+      }
+
+      .price{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:150px;
+      }
+
+      
+
+      .delivery{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:100px;
+      }
+
+      .sum{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:100px;
+      }
+      
+    
+
+
+
+  	.list-cartno{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:104px;
+        margin-top:40px;
+      }
+
+      
+
+      .list-information{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:146px;
+        margin-top:40px;
+      }
+
+      .list-quantity{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:148px;
+        margin-top:40px;
+      }
+
+      
+
+      .list-price{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:100px;
+        margin-top:40px;
+      }
+
+      .list-sum{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:96px;
+        margin-top:40px;
+      }
+
+      .delete{
+        float:left;
+        background-color: white;
+        border-radius: 4px;
+        font-weight: 900;
+      }
+
+      .sum-price{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:200px;
+        margin-top:60px;
+      }
+
+      .sum-delivery{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:150px;
+        margin-top:60px;
+      }
+
+
+      .sum-money{
+        float:right;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-right:200px;
+        margin-top:60px;
+      }
+
+      .list-sum-price{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:200px;
+        margin-bottom:20px;
+      }
+
+      .list-sum-delivery{
+        float:left;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-left:160px;
+      }
+
+
+      .list-sum-money{
+        float:right;
+        font-size:12px;
+        color:rgb(94, 89, 84);
+        font-weight: 800;
+        margin-right:210px;
+      }
+
+
+
+
+      
+
+   
+     
+  
+      .ok-button{
+        width:130px;
+        height:42px;
+        color: white;
+        background-color: black;
+        margin-left:370px;
+        margin-top: 100px;
+        border-radius: 8px 8px 8px 8px;
+        font-size:17px;
+        font-weight: 900;
+        padding:6px;
+       
+      }
+

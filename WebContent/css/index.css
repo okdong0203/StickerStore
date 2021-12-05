@@ -1,0 +1,574 @@
+@charset "UTF-8";
+
+
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+.box-all{
+    width: 960px;
+    font-size: 20px;
+    margin: 0px auto;
+    margin-top:0px;
+    border:1px solid rgb(185, 175, 163);
+   }
+
+   .header-index{
+       width:960px;
+       height:300px;
+       margin-top:0px;
+   }
+
+   .middle-index{
+    
+    width:960px;
+    height:3650px;
+    margin-top:440px;
+    }
+
+
+  .left-navi{
+    font-size: 8px;
+   height:17px;
+   float: left;
+   margin-left:25px;
+  width:200px;
+
+  color:rgb(185, 175, 163);
+  margin-top:10px;
+  font-weight:900;
+  font-family: 'Archivo Black', sans-serif;
+   }
+
+.navi{
+    width:150px;
+    height:17px;
+    float: right;
+   	margin-bottom: 9px;
+  	margin-top:0px;
+    margin-right:4px;
+}
+
+.navi>a{
+   width:50px;
+    font-size: 10px;
+    
+    color:rgb(82, 82, 82);
+   font-weight:900;
+    padding:2px;
+   border:1px solid rgb(185, 175, 163);
+   font-family: 'Archivo Black', sans-serif;
+}
+
+.navi>a:hover{
+ color:black;
+ font-weight: 600; }
+
+.navi-back-color{
+    width: 960px;
+    height: 43px;
+    background-color: rgb(218, 212, 201);
+    height:30px;
+    margin-top:0px;
+}
+
+.navi-back-color-2{
+    width: 960px;
+    background-color: rgb(218, 212, 201);
+    height: 43px;
+    margin-bottom: 30px;
+    margin-top:0px;
+}
+
+.small-logo>img{
+  float: left;
+  width:31px;
+  height:31px;
+  margin-left: 25px;
+  margin-top: 6px;
+  border-radius: 50%;
+}
+
+.small-logo-text{
+  float: left;
+  font-size: 11px;
+  margin-top:16px;
+  margin-left: 10px;
+}
+
+.cart-navi{
+  margin-top:9px;
+  margin-right: 25px;
+  border:none;
+  width:100px;
+  height:25px;
+float: right;
+
+background-color:rgb(201, 190, 159) ;
+
+}
+
+.cart-navi>a{
+  font-size:14px;
+font-weight:600;
+color:rgb(255, 249, 230);
+}
+
+.store-title{
+    width:400px;
+    margin-left:280px;
+    margin-bottom: 27px;
+   
+}
+
+.store-title>a{
+    padding-left:75px;
+    font-size:50px;
+    font-family: 'Nanum Pen Script', sans-serif;
+    font-weight: 900;
+    color: rgb(102, 86, 53);
+}
+
+
+
+
+ul, li{margin:0; padding:0}
+
+   
+
+   ul{list-style:none}
+   
+   a{color:#000; text-decoration:none}
+
+    .gnb{
+      width:960px; height:57px; margin-bottom:0px;
+   }
+
+    /* 메인메뉴 영역 */
+    .gnb>ul{
+     width:640px; height:60px; background:white; 
+    height:35px;
+    padding-left:6px;
+    padding-top:20px;
+    margin-left:260px;
+
+   }
+
+   .gnb>ul>li{
+     float:left; width:100px; height:30px; margin-right:5px;
+     position:relative;
+
+    
+   }
+
+   .gnb>ul>li>a{
+     display:block; width:100%; height:100%;
+     font-size: 11px;
+     text-align:center; color:rgb(82, 82, 82); 
+   }
+
+   .gnb ul li a:hover{font-weight:600; color:#000; }
+
+
+    /* 서브메뉴 영역*/
+    .gnb ul ul{display:none}
+
+   .gnb>ul>li:hover ul{
+      display:block; width:100px; height:25px;
+      position:absolute; left:0; top:30px; border:1px solid rgb(218, 212, 201) ;
+   }
+
+   .gnb li li{
+    font-size:11px; padding-top:0px;
+    width:100px; height:25px; background-color:white; text-align:center;
+  }
+
+    .gnb li li a{
+     display:block; width:100%; height:100%; padding-top:5px;
+     
+   }
+
+    .gnb li li a:hover{
+     color:#000; background-color:rgb(218, 212, 201) ;
+   }
+
+
+
+
+
+
+
+
+    .main-image-box{
+	 
+      width: 960px;
+      height:292px;
+    }
+
+
+	.main-image-under{
+	
+	font-size: 12px; 
+	margin-left:350px;  
+	margin-top:15px; 
+	margin-bottom:15px; 
+	font-weight:900; 
+	color:rgb(185, 175, 163);
+	
+	}
+
+
+    .best-month-product-box{
+      width:900px;
+      height:400px;
+      margin-left:30px;
+     margin-top:-40px;
+    }
+
+
+    .best-month-product-title{
+      font-size:21px;
+      font-style: 20px;
+      font-weight:900;
+      width:100px;
+      margin-left: 400px;
+      
+    
+    }
+
+
+    .best-month-category{
+      font-size: 4px;
+      float:right;
+      
+    }
+
+
+
+    
+
+    .best-month-product{
+      margin-top:45px;
+    }
+
+
+    .best-category{
+      font-size: 4px;
+      float:right;
+     
+    }
+
+    .best-product-box{
+      width:900px;
+      height:750px;
+      margin-left:30px;
+     margin-top:40px;
+      
+    }
+
+    .best-product-title{
+      font-size:21px;
+      font-style: 20px;
+      font-weight:900;
+      width:80px;
+      margin-left: 410px;
+      margin-top:45px;
+      
+    }
+
+    .best-product{
+      margin-top:45px;
+    }
+
+       .box-1{
+        width:210px;
+        height:210px;
+        background-image:url("../image/sealsticker10.jpg");
+        background-size: 100%;
+        float:left;
+        margin-right:20px;
+      }
+
+      .box-1:hover .text {
+        opacity:1;
+      }
+
+      .box-2{
+        width:210px;
+        height:210px;
+        background-image:url("../image/bubble20.jpg");
+        background-size: 100%;
+        float:left;
+        margin-right:20px;
+      }
+
+      .box-2:hover .text {
+        opacity:1;
+      }
+
+      .box-3{
+        width:210px;
+        height:210px;
+        background-image:url("../image/sealsticker8.jpg");
+        background-size: 100%;
+        float:left;
+        margin-right:20px;
+      }
+
+      .box-3:hover .text {
+        opacity:1;
+      }
+
+      .box-4{
+        width:210px;
+        height:210px;
+        background-image:url("../image/sealsticker17.jpg");
+        background-size: 100%;
+        float:left;
+        
+        
+      }
+
+      .box-4:hover .text {
+        opacity:1;
+      }
+
+      .box-5{
+        width:210px;
+        height:210px;
+        background-image:url("../image/bubble19.jpg");
+        background-size: 100%;
+        float:left;
+        margin-right:20px;
+        margin-top: 25px;
+      }
+
+      .box-5:hover .text {
+        opacity:1;
+      }
+
+      .box-6{
+        width:210px;
+        height:210px;
+        background-image:url("../image/sealsticker9.jpg");
+        background-size: 100%;
+        float:left;
+        margin-right:20px;
+        margin-top:30px;
+      }
+
+      .box-6:hover .text {
+        opacity:1;
+      }
+
+      .box-7{
+        width:210px;
+        height:210px;
+        background-image:url("../image/sealsticker15.jpg");
+        background-size: 100%;
+        float:left;
+        margin-right:20px;
+        margin-top: 30px;
+      }
+
+      .box-7:hover .text {
+        opacity:1;
+      }
+
+      .box-8{
+        width:210px;
+        height:210px;
+        background-image:url("../image/sealsticker2.jpg");
+        background-size: 100%;
+        float:left;
+        margin-top:30px;
+      }
+
+      .box-8:hover .text {
+        opacity:1;
+      }
+
+      .text {
+        margin-top:20px;
+        width:210px;
+        height:30px;
+        background-color:rgba(0, 0, 0, 0.6);
+        color:#fff;
+        font-weight: 900;
+        text-align:center;
+        padding-top:8px;
+        opacity:0;
+        transition: opacity .3s;
+        margin-top:172px;
+        font-size:5px;
+      color:rgb(184, 184, 184);
+      font-weight: 600;
+      margin-bottom:8px;
+     
+      }
+   
+    .name{
+      font-size:15px;
+      font-weight:900;
+      margin-top:10px;
+    }
+
+    .name-under{
+      margin-top:3px;
+    }
+
+    .price{
+      font-size:11px;
+      font-weight:900;
+     margin-bottom:25px;
+    }
+
+  
+    .button-1{
+      color:rgb(185, 175, 163);
+      border:none;
+      font-weight: 300;
+      font-size: 10px;
+    }
+
+    
+
+    .product-text-1{
+      float:left;
+      margin-top:5px;
+    }
+
+    .product-text-2{
+      float:left;
+      margin-left:110px;
+      margin-top:5px;
+    }
+
+    .product-text-3{
+      float:left;
+      margin-left:140px;
+      margin-top:5px;
+    }
+
+    .product-text-4{
+      float:left;
+      margin-top:5px;
+      margin-left:105px;
+    }
+
+
+
+
+    
+
+
+
+    .all-product-box{
+      width:900px;
+      height:2000px;
+      margin-left:30px;
+      
+      
+    }
+
+    .all-product-title{
+      font-size:21px;
+      font-style: 20px;
+      font-weight:900;
+      width:80px;
+      margin-left: 410px;
+      margin-top: 15px;
+    }
+
+    .all-category{
+      font-size: 4px;
+      float:right;
+      
+    }
+
+    .all-product{
+      margin-top:45px;
+    }
+
+    .all-product>a>img{
+      width:164px;
+      height:164px;
+      margin-right:20px;
+      float: left;
+      margin-bottom:3px;
+    }
+
+    .img-r{
+      width:164px;
+      height:164px;
+      float:right;
+      margin-bottom:3px;
+    }
+
+    .text-all{
+      margin-top:4px;
+      float:left;
+      margin-right:125px;
+    }
+
+    .text-all-r{
+      margin-top:4px;
+      float:left;
+      margin-left:-20px;
+    }
+    
+    .name-all{
+      font-size:5px;
+      font-weight:900;
+    }
+
+    .name-under-all{
+      margin-top:2px;
+    }
+
+    .price-all{
+      font-size:5px;
+      font-weight:900;
+     margin-bottom:20px;
+    }
+
+    .footer-index{
+      width:960px;
+      height:150px;
+      padding-top:20px;
+      padding-left:10px;
+      }
+
+    .footer-1{
+      width:300px;
+      height:300px;
+      float:left;
+      margin-left:40px;
+    }
+
+    .footer-2{
+      width:200px;
+      height:300px;
+      float:left;
+      padding-left:-10px;
+    }
+
+
+    .footer-3{
+      width:100px;
+      height:300px;
+      float:left;
+      padding-left:20px;
+    }
+
+
+    .footer-title{
+      font-size:5px;
+      font-weight:900;
+      margin-bottom:6px;
+    }
+
+    .footer-text{
+      font-size:5px;
+    }

@@ -1,0 +1,116 @@
+@charset "UTF-8";
+  .under-list{
+      width:150px;
+      
+    }
+    .index-midbox{
+    	margin-top:10px;
+    }
+	#ex{
+	display : inline-block;
+	color: #c1bfbf;
+	}
+    .lab{
+      width:120px;
+      float: left; /*간격조정*/
+    }
+
+    .lab2{
+      float:right;
+    }
+
+    .lab3{
+      width:70px;
+      float:left;
+
+    }
+
+    .lab5{
+      float: left;
+      margin-left:33px;
+      width:175px;
+     
+    }
+
+    .lab4{
+      float: left;
+      margin-left:30px;
+      top:50px;
+      
+    }
+
+    
+
+    #last{
+      margin-top:30px;
+    }
+
+    .must{
+        float: right;
+    }
+
+    .star{
+        float: right;
+        color:hotpink;
+    }
+
+    .star2{
+      float:hotpink;
+    }
+
+    .list-star{
+        color:hotpink;
+    }
+
+    .line{
+        margin:10px 0px 10px 0px;
+        
+    }
+
+    .small-box{
+        width:80px;
+        height: 18px;
+    }
+    
+     .small-box2{
+        width:120px;
+        height: 18px;
+    }
+
+    .middle-box{
+        width:120px;
+        height: 18px;
+        
+    }
+
+    .big-box{
+        width:260px;
+        height: 18px;
+    }
+
+    .line{
+      right: 150px;
+    }
+
+    .all-agree{
+        width:1024px;
+    }
+
+    .text1{
+        overflow:scroll; 
+        width:700px; 
+        height:150px;
+        margin-left: 30px;
+        border:1px solid gray;
+    }
+
+    #button>input{
+        background-color:black;
+        width:130px;
+        height:43px;
+        color: white;
+        border-radius: 5px;
+        margin-left: 315px;
+        margin-top: 40px;
+        font-weight: 900;
+    }

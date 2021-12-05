@@ -1,0 +1,119 @@
+@charset "UTF-8";
+
+
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+.box-all{
+    width: 960px;
+    font-size: 20px;
+    margin: 0px auto;
+    margin-top:0px;
+   }
+
+ 
+
+
+
+  .middle-box{
+    width:840px;
+    height:400px;
+    margin-left:60px;
+    margin-top:200px;
+
+  }
+
+
+
+  .information-text{
+    font-size: 17px;
+    font-weight:700;
+    margin-top:27px;
+  }
+
+.name{
+  font-size: 20px;
+    font-weight:800;
+    margin-top:27px;
+}
+.name-text{
+  font-size: 10px;
+    font-weight:600;
+    margin-top:4px;
+    color:rgb(116, 116, 116);
+}
+.relation{
+  font-size: 10px;
+  font-weight:700;
+  margin-top:27px;
+  color:rgb(116, 116, 116);
+  float:left;
+}
+.relation-adress{
+  font-size: 10px;
+  font-weight:700;
+  color:rgb(0, 33, 219);
+  float:left;
+  margin-left:10px;
+  margin-top:25px;
+}
+.right-box{
+  width:480px;
+  height:500px;
+  float:right;
+margin-right:15px;
+
+}
+.under-name{
+  margin-bottom:10px;
+  font-size: 13px;
+  font-weight:600;
+  margin-top:-35px;
+}
+.under1{
+  width:60px;
+  float:left;
+  font-size: 10px;
+  font-weight:600;
+  color:rgb(116, 116, 116);
+}
+.under2{
+  width:120px;
+  float:left;
+  font-size: 10px;
+  font-weight:600;
+  color:rgb(0, 0, 0);
+}
+.under3{
+  width:100px;
+  float:left;
+  font-size: 10px;
+  font-weight:600;
+  color:rgb(116, 116, 116);
+}
+.under4{
+  width:200px;
+  float:left;
+  font-size: 10px;
+  font-weight:600;
+  color:rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

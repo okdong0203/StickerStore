@@ -1,0 +1,11 @@
+
+@charset "UTF-8";
+ .container {font-family: 'Nanum Pen Script', cursive; color:"#a165f0";"
+             widht:980px; 
+             font-size: 2rem;
+             line-height: 100px;
+             margin-bottom:30px;
+             text-align:center;}
+.main-container{widht:980px; 
+             text-align:center;
+}
